@@ -49,20 +49,56 @@
 
 	<channel><name>PROVINICIALES</name><thumbnail>http://i.imgur.com/Doweufa.png</thumbnail><fanart>http://i.imgur.com/CqPclGg.jpg</fanart>
 		<items>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 29 Ensenada[/COLOR]</title><link>rtmp://panel.dattalive.com/8008/8008</link><thumbnail>http://s20.postimg.org/7t8i4syd9/ar_c29_ensenada.jpg </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 29 Ensenada - Bs As[/COLOR]</title><link>rtmp://panel.dattalive.com/8008/8008</link><thumbnail>http://s20.postimg.org/7t8i4syd9/ar_c29_ensenada.jpg </thumbnail></item>
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 4 HD 720 Jujuy[/COLOR]</title><link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link><thumbnail>http://s20.postimg.org/5lzo353p9/ar_c4_jujuy.jpg </thumbnail></item>
 			<item><info>CLIMA</info><title>[COLOR yellow]Canal 79 San Juan[/COLOR]</title><link>rtmp://painel.serveron.com.br:1935/8162/8162</link><thumbnail>http://s20.postimg.org/bfs3mo8vx/canal_79_mdp.jpg</thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 9 Parana[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link><thumbnail>http://s20.postimg.org/bh21g3app/canal_9_litoral.jpg</thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 9 Parana - Entre Rios[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8</link><thumbnail>http://s20.postimg.org/bh21g3app/canal_9_litoral.jpg</thumbnail></item>
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 9 Salta[/COLOR]</title><link>http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8</link><thumbnail>http://s20.postimg.org/iljup4hz1/Canal9_Salta_Logo_300x300.jpg</thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]ECO TV Tandil[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link><thumbnail>http://s20.postimg.org/deh53muwt/ecotv_sinfotos.jpg </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Argentina: Telpin Canal 2 HD Pinamar[/COLOR]</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link><thumbnail> </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]ECO TV Tandil - Bs As[/COLOR]</title><link>rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv</link><thumbnail>http://s20.postimg.org/deh53muwt/ecotv_sinfotos.jpg</thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Telpin Canal 2 HD Pinamar - Bs As[/COLOR]</title><link>rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p</link><thumbnail>https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png</thumbnail></item>
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 11 - NO SIEMPRE ACTIVO[/COLOR]</title> <link>http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8</link><thumbnail> </thumbnail></item>
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 6 Digital Misiones[/COLOR]</title><link>rtmp://streamlky.alsolnet.com:1935/noticiasdel6/live</link> <thumbnail>http://www.fotosdigitalesgratis.com/noticias/fotos/Canal6Digital-Logo.jpg</thumbnail> </item> 
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 10 Entre Rios[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8</link> <thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail> </item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 3 Trelew [/COLOR]</title><link>http://198.49.76.226:1935/inovasd/inovasd/hasbahca.m3u8</link> <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/9f/Canal_3_trelew_logo.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 3 Trelew - Chubut[/COLOR]</title><link>http://198.49.76.226:1935/inovasd/inovasd/hasbahca.m3u8</link> <thumbnail>http://upload.wikimedia.org/wikipedia/commons/9/9f/Canal_3_trelew_logo.jpg</thumbnail> </item>
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 12 Cordoba[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8</link> <thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 5 Mar del Plata - Bs As[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/20909367/streams/live/playlist.m3u8</link> <thumbnail>https://sites.google.com/site/poramoratitv/_/rsrc/1345144060134/home/canal5television-profile_image-14ea39fbc43b9949-300x300.jpeg?height=200&width=200</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 21 Posadas - Misiones[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18595742/streams/live/playlist.m3u8</link> <thumbnail>http://3.bp.blogspot.com/-mLylha1dLwQ/TzGoHDDbtJI/AAAAAAAADpQ/HhtpgV0lOs4/s1600/logo+canal+21.JPG</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Local Olavarria - Bs As[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/510556/streams/live/playlist.m3u8</link> <thumbnail>http://4.bp.blogspot.com/_YkZZPo1aKZU/TDaUG7zAp7I/AAAAAAAANdo/vdZmjm8IEzU/s400/canallocal5-olavarria.gif</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 13 Rio Cuarto - Cordoba[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18376856/streams/live/playlist.m3u8</link> <thumbnail>http://www.tvargentina.com.ar/iconos/Canal13RCuarto-Logo.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 Mar del Plata - Bs As[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/13284341/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/3/2/8/13284341/13284341_logo_1360154193,66x66,r:1.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 5 Tigre Bs As[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/1/0/6/11068260/11068260_logopngmaxima_1336507455,66x66,r:1.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Carolina Cable Color[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/user/picture/6/6/6/1/6661830/6661830_carolinacable_1294672527,66x66,r:1.jpg</thumbnail> </item>			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 41 Lomas de Zamora - Bs As[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/11170603/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/1/1/7/11170603/11170603,66x66,r:2.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal C Cordoba[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/15263481/streams/live/playlist.m3u8</link> <thumbnail>http://2.bp.blogspot.com/-6srwyAdQYzc/TrygFoZ9wvI/AAAAAAAAAKM/7Ss6yzTk5c4/s1600/CanalCcordoba.jpg</thumbnail> </item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 ACH Santa Fe[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/8053481/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/8/0/5/3/8053481/8053481,66x66,r:2.jpg</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 7 Salta[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/19467262/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/9/4/6/19467262/19467262,66x66,r:2.jpg</thumbnail> </item>			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 4HD - BVC - Bahía Blanca - Bs AS[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/13490492/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/3/4/9/13490492/13490492,66x66,r:3.jpg</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 5 Rio Gallegos - Santa Cruz[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/17814283/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/7/8/1/17814283/17814283,66x66,r:2.jpg</thumbnail> </item>			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Veinte de Febrero - Salta[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/13425182/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/3/4/2/13425182/13425182_logo-canal-20-de-febr_1361414475,66x66,r:1.jpg</thumbnail> </item>			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]SAOTV CANAL 4 SAO - RIO NEGRO[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18496605/streams/live/playlist.m3u8</link> <thumbnail>http://canal4saotv.com.ar/index_files/master%20-%20copia.jpg</thumbnail> </item>			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 San Luis[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/20537644/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/2/0/5/3/20537644/20537644,66x66,r:3.jpg</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 4 Lobos - Bs As[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/5808974/streams/live/playlist.m3u8</link> <thumbnail>http://4.bp.blogspot.com/-5U04onlni0w/TsZs2vuFSMI/AAAAAAAABeo/E6V7cqz1u94/s1600/canal4lobos.png</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 13 San Luis[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/21066208/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/2/1/0/6/21066208/21066208,66x66,r:2.jpg</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Telecable Rincon - Santa Fe[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18217253/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/8/2/1/18217253/18217253,66x66,r:2.jpg</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 4 Milenium TV[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18731894/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/1/8/7/3/18731894/18731894,66x66,r:2.jpg</thumbnail> </item>						
+<!-- 			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Telecable Rincon - Santa Fe[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18217253/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/8/2/1/18217253/18217253,66x66,r:2.jpg</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Telecable Rincon - Santa Fe[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18217253/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/8/2/1/18217253/18217253,66x66,r:2.jpg</thumbnail> </item>						
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Telecable Rincon - Santa Fe[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/18217253/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/8/2/1/18217253/18217253,66x66,r:2.jpg</thumbnail> </item>						
+			 -->
+
+
 
 			
+
+			
+
+			
+			
+			
+
+		
+		
 		</items>
 	</channel>
 </channels>
