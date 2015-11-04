@@ -20,39 +20,55 @@
 
 <!--            <item><title>[COLOR=green]*****[/COLOR][COLOR=orange] A R G E N T I N A[/COLOR][COLOR=green]*****[/COLOR]</title><link>http://about.me/adryan</link><thumbnail> </thumbnail></item>
 -->
-
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV FHD 1080p[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:137/140</link><thumbnail> </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV HD 720p[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:136/140</link><thumbnail> </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TV PUBLICA SD 360p[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/wbwrgvym5/7991d98d146b8c6cdade125d95f154a3.png</thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TV PUBLICA HD 720p[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8</link><thumbnail>http://s20.postimg.org/wbwrgvym5/7991d98d146b8c6cdade125d95f154a3.png</thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]CANAL 9[/COLOR]</title> <link>http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8</link><thumbnail> </thumbnail></item>	
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TELEFE HD 720p[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8</link><thumbnail> </thumbnail></item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TELEFE HD 360p[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link><thumbnail> </thumbnail></item>			
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TELEFE HD[/COLOR]</title><link>http://o12team.tk:8080/TelefeHD/index.m3u8</link><thumbnail> </thumbnail></item>								
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link><thumbnail>http://s20.postimg.org/3jpzxeqyl/El_Trece_HD2012.jpg </thumbnail></item>						
 			<item><info>NOTICIAS</info><title>[COLOR yellow]TN HD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnhd1</link><thumbnail>http://s20.postimg.org/l9mmlby7x/sml_gallery_1164_2_99423.png</thumbnail></item>
 			<item><info>NOTICIAS</info><title>[COLOR yellow]TN SD[/COLOR]</title><link>rtsp://stream.tn.com.ar/live/tnmovil3</link><thumbnail>http://s20.postimg.org/3w7qsqdix/LOGO_TN.png</thumbnail></item>
 			<item><info>NOTICIAS</info><title>[COLOR yellow]C5N[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live_media</link><thumbnail>http://s20.postimg.org/5kbhl4gsd/C5_N1.jpg </thumbnail></item>
 			<item><info>NOTICIAS</info><title>[COLOR yellow]C5N (2)[/COLOR]</title><link>rtmp://c5n.stweb.tv:1935/c5n/live</link><thumbnail>http://s20.postimg.org/5kbhl4gsd/C5_N1.jpg </thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow]CANAL 26 HD[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360</link><thumbnail>http://s20.postimg.org/xfbtvqcxp/Logo_canal_26.jpg</thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow]CANAL 26 HD (2)[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/xfbtvqcxp/Logo_canal_26.jpg</thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow]CANAL 26 SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link><thumbnail>http://s20.postimg.org/6k1sgtvy5/289120_60288_original.jpg</thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow] A24[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]EL TRECE HD[/COLOR]</title><link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1/</link><thumbnail>http://s20.postimg.org/3jpzxeqyl/El_Trece_HD2012.jpg </thumbnail></item>						
+			<item><info>NOTICIAS</info><title>[COLOR yellow]C5N (3)[/COLOR]</title><link>http://c5n.stweb.tv:1935/c5n/live/master.m3u8</link><thumbnail>http://s20.postimg.org/5kbhl4gsd/C5_N1.jpg </thumbnail></item>			
+			<item><info>NOTICIAS</info><title>[COLOR yellow]CANAL 26 HD[/COLOR]</title><link>rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720</link><thumbnail>http://s20.postimg.org/xfbtvqcxp/Logo_canal_26.jpg</thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow]CANAL 26 SD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/6k1sgtvy5/289120_60288_original.jpg</thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow]CANAL 26 MOVIL[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8</link><thumbnail>http://s20.postimg.org/6k1sgtvy5/289120_60288_original.jpg</thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow]A24 FHD 1024p[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I.1:137/140</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow]A24 HD 720p[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I.1:136/140</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>	
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]360TV[/COLOR]</title><link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link><thumbnail>http://s20.postimg.org/lrmtyau4d/8_SOz_Ftn_L.png</thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Rural[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item>			
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TV PUBLICA SD 360[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/wbwrgvym5/7991d98d146b8c6cdade125d95f154a3.png</thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TV PUBLICA HD 720[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8</link><thumbnail>http://s20.postimg.org/wbwrgvym5/7991d98d146b8c6cdade125d95f154a3.png</thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Rural 1 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]CANAL RURAL 2 rtsp[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Argentina: TELEFE HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8</link><thumbnail> </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Argentina: TV PUBLICA HD[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8</link><thumbnail>http://s20.postimg.org/wbwrgvym5/7991d98d146b8c6cdade125d95f154a3.png</thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Rural 1[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]CANAL RURAL 2[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Rural 3[/COLOR]</title><link>rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1</link><thumbnail>http://s20.postimg.org/6k6udy29p/canalrural.jpg </thumbnail></item>						
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Magazine TV: [/COLOR]</title> <link>rtsp://stream.mgzn.tv/live/mgzntv/mgzntv</link><thumbnail> </thumbnail></item>
-			<item><info>MUSICA</info><title>[COLOR yellow]Q Musica: [/COLOR]</title> <link>mms://streamqm.uigc.net/qmusica</link><thumbnail> </thumbnail><thumbnail> </thumbnail></item>
+			<item><info>MUSICA</info><title>[COLOR yellow]Q Musica 720p[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:136/140</link><thumbnail> </thumbnail></item>
+			<item><info>MUSICA</info><title>[COLOR yellow]Futbol para Todos[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=UCxjcBVXCrJ9IlXDLDUJHtUA</link><thumbnail> </thumbnail></item>
 			<item><info>DEPORTES</info><title>[COLOR yellow]Deportv Argentina[/COLOR]</title><link>rtmp://sl100tb.cxnlive.com/live/deportv.stream</link><thumbnail> </thumbnail></item>
-			<item><info>CINE</info><title>[COLOR yellow]Cinemax HD[/COLOR]</title><link>http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8</link><thumbnail> </thumbnail></item>
+			<item><info>DEPORTES</info><title>[COLOR yellow]Deportv Argentina[/COLOR]</title><link>http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8</link><thumbnail> </thumbnail></item>
 			<item><info>MUSICA</info><title>[COLOR yellow]Vivra[/COLOR]</title><link>http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8</link><thumbnail> </thumbnail></item>
 			<item><info>INFANTIL</info><title>[COLOR yellow]TaTeTi[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on</link><thumbnail> </thumbnail></item>
 			<item><info>NOTICIAS</info><title>[COLOR yellow]TLX[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link><thumbnail> </thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow]AMERICA TV[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c</link><thumbnail> </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV 1080[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:137/140</link><thumbnail> </thumbnail></item>
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV 720[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:136/140</link><thumbnail> </thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow]A24 1080[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=4rmsEf46f7I.1:137/140</link><thumbnail> </thumbnail></item>
-			<item><info>NOTICIAS</info><title>[COLOR yellow]A24 240[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=4rmsEf46f7I.1:133/140</link><thumbnail> </thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow]TLX[/COLOR]</title><link>http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8</link><thumbnail> </thumbnail></item>
+			
+			<item><info>NOTICIAS</info><title>[COLOR yellow] A24 480p[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I.1:135/140</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow] A24 360p[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I.1:134/140</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow] A24 240p[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I.1:133/140</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>
+			<item><info>NOTICIAS</info><title>[COLOR yellow] A24 144p MOVIL[/COLOR]</title><link>https://www.youtube.com/watch?v=4rmsEf46f7I.1:160/140</link><thumbnail>http://s20.postimg.org/fpf77t5od/A24_america_24_en_vivo_online_on_line.png </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV 480p[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:135/140</link><thumbnail> </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV 360p[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:134/140</link><thumbnail> </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV 240p[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:133/140</link><thumbnail> </thumbnail></item>
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]AMERICA TV 144p MOVIL[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=Hytby2q7c0c.1:160/140</link><thumbnail> </thumbnail></item>
+			<item><info>MUSICA</info><title>[COLOR yellow]Q Musica 480p[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:135/140</link><thumbnail> </thumbnail></item>
+			<item><info>MUSICA</info><title>[COLOR yellow]Q Musica 360p[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:134/140</link><thumbnail> </thumbnail></item>
+			<item><info>MUSICA</info><title>[COLOR yellow]Q Musica 240p[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:133/140</link><thumbnail> </thumbnail></item>
+			<item><info>MUSICA</info><title>[COLOR yellow]Q Musica 144p MOVIL[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:160/140</link><thumbnail> </thumbnail></item>
+			<item><info>VARIEDAD</info><title>[COLOR yellow]Aqua Federal[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:160/140</link><thumbnail> </thumbnail></item>
+			<item><info>VARIEDAD</info><title>[COLOR yellow]Aqua Mayor[/COLOR]</title> <link>plugin://plugin.video.youtube/play/?video_id=meglaZalbMQ.31:160/140</link><thumbnail> </thumbnail></item>
+			
 
-			
-			
 			
 			
 			
@@ -108,11 +124,34 @@
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Tele 10 Salta[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/4/1/8/14183607/14183607,66x66,r:3.jpg</thumbnail> </item>						
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]TVEO Mendoza[/COLOR]</title><link>http://iphone-streaming.ustream.tv/ustreamVideo/13300574/streams/live/playlist.m3u8</link> <thumbnail>http://static-cdn1.ustream.tv/i/user/picture/2/1/1/4/21144385/21144385_logotveo_1361211931,66x66,r:1.jpg</thumbnail> </item>									
 			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 7 Mendoza[/COLOR]</title><link>plugin://plugin.video.youtube/play/?video_id=cdy85qJH_Ds.1</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
-			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 21[/COLOR]</title><link>http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Orbe 21[/COLOR]</title><link>http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									 
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 5 Corrientes[/COLOR]</title><link>rtmp://www.coninfo.net:1935/tvcinco/live2</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 San Clemente - Bs As[/COLOR]</title><link>rtmp://painel.serveron.com.br/8170/8170</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 Santa Teresita - Bs As[/COLOR]</title><link>mmsh://190.14.32.204:3905</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Cable Express - Salta[/COLOR]</title><link>rtmp://www.coninfo.net:1935/tvcinco/live2</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Cabletel Canal 12 Zarate Bs As[/COLOR]</title><link>http://190.151.144.22:8083/canallocal.flv?_=1</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 Posadas - Misiones[/COLOR]</title><link>http://190.57.237.214/live/canal.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 2 SSJ - Jujuy[/COLOR]</title><link>http://xcanal2jujuyx.api.channel.livestream.com/3.0/playlist.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 4 Posadas - Misiones[/COLOR]</title><link>rtmp://184.154.28.210:1935/canal4/canal4</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]DWelle[/COLOR]</title><link>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 17 Neuquen[/COLOR]</title><link>rtmp://184.172.26.212:1935/live/live22</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 9 Com Rivadavia - Chubut[/COLOR]</title><link>rtmp://www.canal9comodoro.com/live/c9/mp4:canal</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 10 - Rio Negro[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Metro - Tucuman[/COLOR]</title><link>rtmp://5.9.59.236/golive/59_186_live</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Misiones 4 - Misiones[/COLOR]</title><link>http://streamlky.alsolnet.com/misionescuatro/live/playlist.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Moreno Vision - Bs As[/COLOR]</title><link>rtmp://morenovisiontv.noip.me/oflaDemo/live</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 5 - Tucuman[/COLOR]</title><link>rtmp://5.9.59.236/golive/59_179_live</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 6 Pringles - Bs As[/COLOR]</title><link>rtmp://streamlky.alsolnet.com:332/noticiasdel6sd/live</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal Provincial - Bs As[/COLOR]</title><link>http://www.trimi.com.ar/provincial/streaming/mystream.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 10 Mar del Plata - Bs As[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 10 Mar del Plata - Bs As[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
+			<item><info>ENTRETENIMIENTO</info><title>[COLOR yellow]Canal 10 Mar del Plata - Bs As[/COLOR]</title><link>http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8</link> <thumbnail>http://i.imgur.com/Doweufa.png</thumbnail> </item>									
 			
-			
+		
 
+	
 
+<!-- rtmp://188.165.224.142:1935/grupojornada/grupojornada C3 Trelew -->
 
 
 			
@@ -175,7 +214,6 @@
 			<item><info>NACIONALES</info><title>[COLOR skyblue]TELEFE HD[/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/telefe.stream</link><thumbnail>http://s20.postimg.org/x9uc4ddz1/telefehd.png</thumbnail></item>
 			<item><info>NACIONALES</info><title>[COLOR skyblue]EL TRECE HD: [/COLOR]</title> <link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link><thumbnail> </thumbnail></item>
 			<item><info>NACIONALES</info><title>[COLOR skyblue]AMERICA TV HD: [/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/america.stream</link><thumbnail> </thumbnail></item>
-			<item><info>NACIONALES</info><title>[COLOR skyblue]CANAL 9 HD: [/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/canal9.stream</link><thumbnail> </thumbnail></item>
 			<item><info>NACIONALES</info><title>[COLOR skyblue]TV PUBLICA HD:[/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/tvpublica.stream</link><thumbnail>http://s20.postimg.org/wbwrgvym5/7991d98d146b8c6cdade125d95f154a3.png</thumbnail></item>
 			<item><title>[COLOR skyblue]TyC Sports HD:[/COLOR]</title> <link>rtmp://sl100tb.cxnlive.com/live/tyc.stream</link><thumbnail> </thumbnail></item>
 			<item><info>NACIONALES</info><title>[COLOR skyblue]TN HD: [/COLOR]</title> <link>rtsp://stream.tn.com.ar/live/tnhd1</link><thumbnail> </thumbnail></item>
